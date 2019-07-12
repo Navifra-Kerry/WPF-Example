@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWPF", "HelloWPF\HelloW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstEvent", "FirstEvent\FirstEvent.csproj", "{6148E200-950C-4B49-97F8-1C83B649E7A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartupUri", "StartupUri\StartupUri.csproj", "{05A05B19-C0FB-4308-96EE-223814A36542}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6148E200-950C-4B49-97F8-1C83B649E7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6148E200-950C-4B49-97F8-1C83B649E7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6148E200-950C-4B49-97F8-1C83B649E7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A05B19-C0FB-4308-96EE-223814A36542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A05B19-C0FB-4308-96EE-223814A36542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A05B19-C0FB-4308-96EE-223814A36542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A05B19-C0FB-4308-96EE-223814A36542}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
