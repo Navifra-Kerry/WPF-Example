@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContext", "DataContext\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabindingCodebehind", "DatabindingCodebehind\DatabindingCodebehind.csproj", "{3341DEF5-3B55-43FF-84AC-7F8D31454E07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateSourceTrigger", "UpdateSourceTrigger\UpdateSourceTrigger.csproj", "{653BE258-F6F9-46D6-9D3D-E4FCE82935EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{3341DEF5-3B55-43FF-84AC-7F8D31454E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3341DEF5-3B55-43FF-84AC-7F8D31454E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3341DEF5-3B55-43FF-84AC-7F8D31454E07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{653BE258-F6F9-46D6-9D3D-E4FCE82935EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653BE258-F6F9-46D6-9D3D-E4FCE82935EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653BE258-F6F9-46D6-9D3D-E4FCE82935EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653BE258-F6F9-46D6-9D3D-E4FCE82935EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
