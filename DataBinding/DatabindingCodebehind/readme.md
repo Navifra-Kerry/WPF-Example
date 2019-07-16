@@ -53,7 +53,7 @@ namespace DatabindingCodebehind
 
 ```
 
-![sample](https://100.100.15.221/Kerry-cho/WPF-Example/blob/master/DatabindingCodebehind/Sample.png)
+![sample](https://100.100.15.221/Kerry-cho/WPF-Example/blob/master/DataBinding/DatabindingCodebehind/Sample.png)
 
 그것은 Binding 인스턴스를 생성하여 작동합니다. 우리는 Text 속성에 바인딩하기를 원하기 때문에 생성자에서 직접 원하는 경로를 지정합니다.이 경우 "Text"입니다. 이 예제에서는 TextBox 컨트롤이어야하는 Source를 지정합니다. 이제 WPF는 TextBox를 소스 컨트롤로 사용해야한다는 것을 알고 있으며 특히 Text 속성에 포함 된 값을 찾고 있습니다.
 
