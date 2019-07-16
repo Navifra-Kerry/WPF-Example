@@ -43,7 +43,7 @@ namespace DataContext
     }
 }
 ```
-![sampleImage](https://100.100.15.221/Kerry-cho/WPF-Example/blob/master/DataContext/Sample.png) 
+![sampleImage](https://100.100.15.221/Kerry-cho/WPF-Example/blob/master/DataBinding/DataContext/Sample.png) 
 
 이 예제에서는 코드에 흥미로운 딱 한 줄의 코드만 추가합니다. 표준 InitalizeComponent() 호출 후에 DataContext에 "this" 참조하도록 합니다. 이 참조는 기본적으로 데이터 컨텍스트가 Window 자체가 되기를 요구합니다.
 
