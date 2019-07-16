@@ -19,3 +19,9 @@ StartupUri/bin/Debug/StartupUri.pdb
 /DatabindingCodebehind/bin/Debug
 /UpdateSourceTrigger/obj/Debug
 /UpdateSourceTrigger/bin/Debug
+/DataBinding/DatabindingCodebehind/obj/Debug
+/DataBinding/DatabindingCodebehind/bin/Debug
+/DataBinding/DataBound/obj/Debug
+/DataBinding/DataBound/bin/Debug
+/DataBinding/DataContext/obj/Debug
+/DataBinding/DataContext/bin/Debug
