@@ -21,7 +21,7 @@
 
 * Sample EXE  
   
-![SAMPLE](https://100.100.15.221/Kerry-cho/WPF-Example/blob/master/DataBound/Sample.png)
+![sample](https://100.100.15.221/Kerry-cho/WPF-Example/blob/master/DataBinding/DataBound/Sample.png)
 
 이 간단한 예제는 TextBox의 Text 속성이 TextBlock의 Text 값과 일치하도록 바인딩하는 방법을 보여줍니다.
 스크린 샷에서 볼 수 있듯이 TextBox에 텍스트를 입력하면 TextBlock이 자동으로 업데이트 됩니다. 
