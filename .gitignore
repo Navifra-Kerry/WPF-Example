@@ -13,3 +13,5 @@ StartupUri/bin/Debug/StartupUri.exe.config
 StartupUri/bin/Debug/StartupUri.pdb
 /DataBound/obj/Debug
 /DataBound/bin/Debug
+/DataContext/obj/Debug
+/DataContext/bin/Debug

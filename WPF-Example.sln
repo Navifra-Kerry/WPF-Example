@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartupUri", "StartupUri\St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBound", "DataBound\DataBound.csproj", "{CAB97B50-7C65-4535-B1C3-4FC7314BF4D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContext", "DataContext\DataContext.csproj", "{6B668C95-2FF5-46CB-9C60-F79809B728C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CAB97B50-7C65-4535-B1C3-4FC7314BF4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAB97B50-7C65-4535-B1C3-4FC7314BF4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAB97B50-7C65-4535-B1C3-4FC7314BF4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B668C95-2FF5-46CB-9C60-F79809B728C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B668C95-2FF5-46CB-9C60-F79809B728C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B668C95-2FF5-46CB-9C60-F79809B728C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B668C95-2FF5-46CB-9C60-F79809B728C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
