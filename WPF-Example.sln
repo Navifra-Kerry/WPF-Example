@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContext", "DataBinding\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateSourceTrigger", "DataBinding\UpdateSourceTrigger\UpdateSourceTrigger.csproj", "{653BE258-F6F9-46D6-9D3D-E4FCE82935EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Respondingtochanges", "Respondingtochanges\Respondingtochanges.csproj", "{FCA2EB4A-16F5-4D58-B7DA-1A2B2BCB6B9F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Respondingtochanges", "DataBinding\Respondingtochanges\Respondingtochanges.csproj", "{FCA2EB4A-16F5-4D58-B7DA-1A2B2BCB6B9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
