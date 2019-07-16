@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContext", "DataBinding\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateSourceTrigger", "DataBinding\UpdateSourceTrigger\UpdateSourceTrigger.csproj", "{653BE258-F6F9-46D6-9D3D-E4FCE82935EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Respondingtochanges", "Respondingtochanges\Respondingtochanges.csproj", "{FCA2EB4A-16F5-4D58-B7DA-1A2B2BCB6B9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{653BE258-F6F9-46D6-9D3D-E4FCE82935EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{653BE258-F6F9-46D6-9D3D-E4FCE82935EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{653BE258-F6F9-46D6-9D3D-E4FCE82935EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA2EB4A-16F5-4D58-B7DA-1A2B2BCB6B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA2EB4A-16F5-4D58-B7DA-1A2B2BCB6B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA2EB4A-16F5-4D58-B7DA-1A2B2BCB6B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA2EB4A-16F5-4D58-B7DA-1A2B2BCB6B9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +68,7 @@ Global
 		{CAB97B50-7C65-4535-B1C3-4FC7314BF4D9} = {985537F8-048C-43EC-9142-8257837E2CA9}
 		{6B668C95-2FF5-46CB-9C60-F79809B728C1} = {985537F8-048C-43EC-9142-8257837E2CA9}
 		{653BE258-F6F9-46D6-9D3D-E4FCE82935EB} = {985537F8-048C-43EC-9142-8257837E2CA9}
+		{FCA2EB4A-16F5-4D58-B7DA-1A2B2BCB6B9F} = {985537F8-048C-43EC-9142-8257837E2CA9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2938ACB7-0DB8-4C1F-A371-A8A11A041A50}
