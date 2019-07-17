@@ -33,3 +33,9 @@ StartupUri/bin/Debug/StartupUri.pdb
 /DataBinding/IValueConverter/obj/Debug
 /DataBinding/IValueConverter/bin/Debug
 /DataBinding/UpdateSourceTrigger/bin/Debug
+/Commands/WPFExample.CanExecute/obj/Debug
+/Commands/WPFExample.CanExecute/bin/Debug
+/Commands/WPFExample.CommandFirst/obj/Debug
+/Commands/WPFExample.CommandFirst/bin/Debug
+/Commands/WPFExample.CommandsWithCommandTargetSample/obj/Debug
+/Commands/WPFExample.CommandsWithCommandTargetSample/bin/Debug
