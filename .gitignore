@@ -30,3 +30,6 @@ StartupUri/bin/Debug/StartupUri.pdb
 /Respondingtochanges/bin/Debug
 /DataBinding/Respondingtochanges/obj/Debug
 /DataBinding/Respondingtochanges/bin/Debug
+/DataBinding/IValueConverter/obj/Debug
+/DataBinding/IValueConverter/bin/Debug
+/DataBinding/UpdateSourceTrigger/bin/Debug

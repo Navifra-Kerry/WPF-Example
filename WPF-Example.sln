@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateSourceTrigger", "Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Respondingtochanges", "DataBinding\Respondingtochanges\Respondingtochanges.csproj", "{FCA2EB4A-16F5-4D58-B7DA-1A2B2BCB6B9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IValueConverter", "DataBinding\IValueConverter\IValueConverter.csproj", "{778ABC1E-EA97-4764-96B3-BDAD558FE5AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,10 @@ Global
 		{FCA2EB4A-16F5-4D58-B7DA-1A2B2BCB6B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCA2EB4A-16F5-4D58-B7DA-1A2B2BCB6B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCA2EB4A-16F5-4D58-B7DA-1A2B2BCB6B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{778ABC1E-EA97-4764-96B3-BDAD558FE5AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778ABC1E-EA97-4764-96B3-BDAD558FE5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778ABC1E-EA97-4764-96B3-BDAD558FE5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778ABC1E-EA97-4764-96B3-BDAD558FE5AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,6 +75,7 @@ Global
 		{6B668C95-2FF5-46CB-9C60-F79809B728C1} = {985537F8-048C-43EC-9142-8257837E2CA9}
 		{653BE258-F6F9-46D6-9D3D-E4FCE82935EB} = {985537F8-048C-43EC-9142-8257837E2CA9}
 		{FCA2EB4A-16F5-4D58-B7DA-1A2B2BCB6B9F} = {985537F8-048C-43EC-9142-8257837E2CA9}
+		{778ABC1E-EA97-4764-96B3-BDAD558FE5AD} = {985537F8-048C-43EC-9142-8257837E2CA9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2938ACB7-0DB8-4C1F-A371-A8A11A041A50}
