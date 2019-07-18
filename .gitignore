@@ -41,3 +41,5 @@ StartupUri/bin/Debug/StartupUri.pdb
 /Commands/WPFExample.CommandsWithCommandTargetSample/bin/Debug
 /Commands/WPFExample.UsingCommandsSample/obj/Debug
 /Commands/WPFExample.UsingCommandsSample/bin/Debug
+/Commands/WPFExample.CustomCommands/obj/Debug
+/Commands/WPFExample.CustomCommands/bin/Debug
