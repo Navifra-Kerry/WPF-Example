@@ -45,3 +45,7 @@ StartupUri/bin/Debug/StartupUri.pdb
 /Commands/WPFExample.CustomCommands/bin/Debug
 /Dialog/WPFExample.MessageBox/obj/Debug
 /Dialog/WPFExample.MessageBox/bin/Debug
+/Dialog/OpenFileDialogSample/OpenFileDialogMultipleFilesSample/obj/Debug
+/Dialog/OpenFileDialogSample/OpenFileDialogMultipleFilesSample/bin/Debug
+/Dialog/OpenFileDialogSample/OpenFileDialogSample/obj/Debug
+/Dialog/OpenFileDialogSample/OpenFileDialogSample/bin/Debug
